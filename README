@@ -1,0 +1,8 @@
+These python scripts work together and in conjunction with linux programs gphoto2 and feh to provide a photobooth-like setup. Functions include: 
+
++ Tethering a digital camera via USB
++ Moving photos to local storage
++ Displaying the photo fullscreen
++ Deleting the files from camera storage
+
+It's only been tested with ubuntu linux 12.04, gphoto2 2.4.11, feh 2.2 and a Nikon D3000, and is a bit janky at that.
